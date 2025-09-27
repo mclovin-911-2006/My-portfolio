@@ -639,7 +639,20 @@ footer{
     .project-box{
         width: 80%;
     }
-
+    .ofppt-box {
+        width: 80%;
+        height: auto;
+        padding: 20px;
+      }
+      .ofppt-box img {
+        height: 80px;
+        margin-bottom: 15px;
+      }
+      .education-box p {
+        font-size: 14px;
+      }
+    
+      
 }
 .butn {
     background-color: #1e90ff;
